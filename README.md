@@ -17,3 +17,8 @@ smail : 😀
 This is a ` test `!!!
 
 ` This is a long quote `
+
+- [x] 做好了
+- [ ] 沒做
+- [ ] 一半
+- [ ] 大概99%
